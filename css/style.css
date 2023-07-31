@@ -1,0 +1,39 @@
+section {
+    padding: 100px;
+}
+
+/* .div-1 {
+    padding-right: 20px;
+} */
+
+.div-1 img {
+    width: 100%;
+    height: auto;
+}
+
+.div-2 h4 {
+    color: #4169e3;
+}
+
+/* .div-2 {
+    padding-left: 20px;
+} */
+
+.div-2 h1 {
+    margin-bottom: 1rem;
+    margin-top: 2rem;
+}
+
+.div-2 h1 span {
+    color: #e40f75;
+}
+
+.div-2 p {
+    margin-top: 5rem;
+    font-size: 1rem;
+}
+
+.row {
+    /* justify-content: space-between; */
+    align-items: center;
+}
